@@ -1,6 +1,6 @@
 # Using _EXCEL_ to Modify & Analyze Kickstarter Data
 
-## **_Questions Answered:**_
+## **_Questions Answered:_**
 
 ### **1. What are three conclusions we can make about Kickstarter campaigns given the provided data?**
 
