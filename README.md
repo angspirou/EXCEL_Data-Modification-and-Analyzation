@@ -9,7 +9,9 @@
 #### Futhermore, there seems to be a higher rate of successful outcomes in the music category if the campaign launches within the month of May. 
 
 ### **2. What are some of the limitations of the dataset?**
+#### Limitations of this dataset include the lack of information on the following; information on the re-launching of any previously failed campaigns and their outcomes, information concerning the reasoning behind a campaign's cancellation, and information on what timepoints the campaigns begain gaining backers and pledges. 
 
 ### **3. What are some other possible tables/graphs that we could create?**
+#### It would be interesting to create a pivot stacked bar graph depicting the campaigns' states, or outcomes, based on how much time the campaigns had before their deadlines were reached. This may possibly give a look into how long a campaign should run before increases in failures start to rise higher than successes on average. 
 
 
